@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Angel!
+
+Here is a brief information about myself:
 
 🛠️ Skills and Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
